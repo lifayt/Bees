@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.text-bees {
+  width: 500px;
+  height: 500px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.bees {
+  display: flex;
+  justify-content: center;
+  background-color: #0f3166;
+  height: 100%;
+  width: 100%;
+}
+
+.bees-script {
+  color: yellow;
+  width: 80%;
+  margin: 20px;
+}
